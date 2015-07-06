@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-settings",
+  "version": "0.1.0",
+  "description": "Cordova plugin to manually override build settings in AndroidManifest.xml/Info.plist.",
+  "cordova": {
+    "id": "cordova-plugin-settings",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dokterbob/cordova-plugin-settings.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "settings"
+  ],
+  "author": "Mathijs de Bruin",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/dokterbob/cordova-plugin-settings/issues"
+  },
+  "homepage": "https://github.com/dokterbob/cordova-plugin-settings#readme"
+}
